@@ -1,0 +1,6 @@
+C:\Users\petra\OneDrive\02_VisualStudio\RhinoJoint\RhinoJoint\RhinoGeometry\obj\Debug\RhinoGeometry.csprojAssemblyReference.cache
+C:\Users\petra\OneDrive\02_VisualStudio\RhinoJoint\RhinoJoint\RhinoGeometry\obj\Debug\RhinoGeometry.csproj.CoreCompileInputs.cache
+C:\Users\petra\OneDrive\02_VisualStudio\RhinoJoint\RhinoJoint\RhinoGeometry\bin\Debug\RhinoGeometry.dll
+C:\Users\petra\OneDrive\02_VisualStudio\RhinoJoint\RhinoJoint\RhinoGeometry\bin\Debug\RhinoGeometry.pdb
+C:\Users\petra\OneDrive\02_VisualStudio\RhinoJoint\RhinoJoint\RhinoGeometry\obj\Debug\RhinoGeometry.dll
+C:\Users\petra\OneDrive\02_VisualStudio\RhinoJoint\RhinoJoint\RhinoGeometry\obj\Debug\RhinoGeometry.pdb
